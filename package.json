@@ -1,6 +1,6 @@
 {
-  "name": "@weiroll/weiroll.js",
-  "version": "0.3.0",
+  "name": "weiroll.js",
+  "version": "0.3.1",
   "description": "The weiroll planner in JS",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
